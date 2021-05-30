@@ -1,7 +1,7 @@
 # Code Challenge
 
 ## Why?
-Inside this repository, you'll find my solution that'll take a appropriately created CSV file of transaction records. I have chosen to build this solution in the micro-framework 'Lumen', which is lightweight variant of 'Laravel', as it demonstrates my skills as a Full-Stack Web Developer and it allows me to speed up development without needing to custom code a backend handler.
+Inside this repository, you'll find my solution that'll take a appropriately created CSV file of transaction records. I have chosen to build this solution in the micro-framework 'Lumen', which is lightweight variant of 'Laravel', as it demonstrates my knowledge of the 'Laravel' framework and it allows me to speed up development without needing to custom code a backend.
 
 ## Files to look out for
 [app\Http\Controllers\CSVController.php](https://github.com/gabefraser/code-challenge/blob/master/app/Http/Controllers/CSVController.php) - This is where the view rendering / CSV parsing occurs.
