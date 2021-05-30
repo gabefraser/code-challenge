@@ -15,7 +15,7 @@ Inside this repository, you'll find my solution that'll take a appropriately cre
 [resources\views\home.blade.php](https://github.com/gabefraser/code-challenge/blob/master/resources/views/home.blade.php) - This is where the table is displayed on the front-end.
 
 ## How to view
-I have gone ahead and published this live on my site, [challenge.gabe.gg](https://challenge.gabe.gg) for your convenience.
+I have gone ahead and published this live on my site, [challenge.gabe.gg](https://challenge.gabe.gg) for your convenience. The database resets itself every 5 minutes.
 
 If you'd like to view locally, you're more than welcome to spin up a local PHP server by running:
 
