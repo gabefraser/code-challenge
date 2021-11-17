@@ -8,7 +8,7 @@ Inside this repository, you'll find my solution that'll take a appropriately cre
 
 [app\Helpers\CSVParsingHelper.php](https://github.com/gabefraser/code-challenge/blob/master/app/Helpers/CSVParsingHelper.php) - This is where the translated from Pseudo code to PHP algorithm lives. 
 
-[resources\views\home.blade.php](https://github.com/gabefraser/code-challenge/blob/master/resources/views/home.blade.php) - This is the Eloquent ORM migration schema resides.
+[database\migrations\2021_05_28_100523_create_transaction_table.php](https://github.com/gabefraser/code-challenge/blob/master/database/migrations/2021_05_28_100523_create_transaction_table.php) - This is the Eloquent ORM migration schema resides.
 
 [resources\views\layout.blade.php](https://github.com/gabefraser/code-challenge/blob/master/resources/views/layout.blade.php) - This is the root file that controls the `<html>`, `<head>` and `<body>` tags.
 
